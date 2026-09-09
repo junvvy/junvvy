@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junvvy
+- 👋 Hi, I’m @junvvy otherwise known as Joseph, I am an aspiring student at UMBC, and hopefully one day I can achieve a data scientist role or data engineer.
 
 <!---
 junvvy/junvvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
